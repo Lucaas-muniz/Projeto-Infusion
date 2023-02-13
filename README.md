@@ -1,2 +1,2 @@
 # Projeto-Infusion
-Projeto criado com a ideia de praticar Javascript .
+Projeto criado com a ideia de praticar Javascript e pensado para ser responsivo e acessivel.
