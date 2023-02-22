@@ -1,2 +1,2 @@
 # Projeto-Infusion
-Projeto criado com a ideia de praticar Javascript e pensado para ser responsivo e acessível.
+Projeto criado com a ideia de  ser um site responsivo e acessível, que funcione com o javascript habilitado ou não.
